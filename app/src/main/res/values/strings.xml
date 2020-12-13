@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">OnyaOdop</string>
+
+    <string name="content_text">Gelang Simpai Kalimantan</string>
+    <string name="content_specs_display">Hitam Putih - Hitam full</string>
+    <string name="content_specs_size">Rotan Asli"</string>
+    <string name="content_specs">Gelang yang dibuat dari anyaman kulit rotan yang berasal dari Kalimantan Selatan.</string>
+    <string name="content_price">Rp. 60.000,-</string>
+    <string name="intent_with_result">Intent With Result</string>
+    <string name="implicit_intent">Implicit Intent</string>
+    <string name="intent_with_parcelable">Intent With Parcelable</string>
+    <string name="intent_with_data">Intent With Data</string>
+    <string name="simple_activity">Simple Activity</string>
+    <string name="back">Back</string>
+    <string name="todo">TODO</string>
+</resources>
